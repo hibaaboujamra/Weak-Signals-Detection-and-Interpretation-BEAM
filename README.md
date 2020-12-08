@@ -1,2 +1,2 @@
 # Event-Precursors-on-Social-networks-
-Event precursors detection in social networks via graphlets -  Facebook Dataset
+Event precursors detection in social networks via graphlets -  Twitter Dataset
