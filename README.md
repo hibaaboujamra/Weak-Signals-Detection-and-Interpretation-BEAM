@@ -1,5 +1,5 @@
 # Event-Precursors-on-Social-networks
-Event precursors detection in social networks via graphlets -  Twitter Dataset
+Weak signals detection in social networks via graphlets 
 
 ## Datafiles for three different social networks
 Twitter\\
